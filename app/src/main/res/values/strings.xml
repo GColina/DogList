@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DogList</string>
+
+    <string name="error">parece que hubo un error</string>
+</resources>
